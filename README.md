@@ -106,4 +106,4 @@ Currently looking for a **minimum 4.5-month internship starting May 15, 2026**, 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/taha-el-afdel](https://www.linkedin.com/in/taha-el-afdel/)
-- Email: [elafdel.taha@gmail.com](mailto:elafdel.taha@gmail.com)
+- Email: [elafdel.taha1@gmail.com](mailto:elafdel.taha1@gmail.com)
