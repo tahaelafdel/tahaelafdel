@@ -1,23 +1,109 @@
-![MasterHead](https://static.wixstatic.com/media/e2c59a_b5b7666d531f4441bc96954b5f33771f~mv2.gif)
-<h1 align="center">Hi 👋, I'm EL-AFDEL Taha</h1>
-<h3 align="center">A Data Enthousiast from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taha-el-afdel.taha-el-afdel" />
 
-- 📫 How to reach me **elafdel.taha1@gmail.com**
+# Hi, I'm Taha EL AFDEL
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/taha-el-afdel-1b89811b6/](https://www.linkedin.com/in/taha-el-afdel-1b89811b6/)
+**Big Data & AI Engineering Student** based in Casablanca, Morocco.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/tahaelafdel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tahaelafdel" height="30" width="40" /></a>
-<a href="https://instagram.com/reformed.taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reformed.taha" height="30" width="40" /></a>
-<a href="https://medium.com/@elafdel.taha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elafdel.taha1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/elafdel_taha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elafdel_taha1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5705b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5705b" height="30" width="40" /></a>
-</p>
+I build data platforms, AI-powered systems, and full-stack products that turn raw information into useful decisions. My work sits at the intersection of data engineering, machine learning, cloud, and web development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Currently looking for a **minimum 4.5-month internship starting May 15, 2026**, available across Morocco and internationally.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaelafdel&show_icons=true&locale=en" alt="tahaelafdel" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20EL%20AFDEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-el-afdel/)
+[![Email](https://img.shields.io/badge/Email-elafdel.taha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elafdel.taha@gmail.com)
+
+## About Me
+
+- Engineering student in **Big Data & Artificial Intelligence** at **EIGSI Casablanca**
+- Former **Data Science Program** student at **ExploreAI Academy**
+- Interested in **Data**, **AI**, **Dev Web**, and cloud-based analytics platforms
+- Comfortable working on end-to-end products: data ingestion, modeling, APIs, dashboards, and deployment
+- Certified in **Microsoft Azure Data Fundamentals (DP-900)** and **Docker Foundations Professional Certificate**
+
+## Featured Projects
+
+### Silicon Sentiment
+
+**Data intelligence and GPU market monitoring platform**
+
+- Built an architecture for collecting and analyzing GPU market data
+- Integrated asynchronous scraping with **Node.js/Puppeteer**
+- Designed storage on **Azure Data Lake Gen2**
+- Implemented ETL pipelines with **PySpark**, sentiment analysis with **TextBlob**, and anomaly detection
+- Used **Docker**, **Airflow**, **PostgreSQL**, **FastAPI**, and **Next.js**
+
+### Marka
+
+**Corporate transparency platform**
+
+- Built a local Moroccan business analysis and mapping platform
+- Migrated graph data from **MySQL** to **Neo4j**
+- Modeled and analyzed shareholder and company relationships with **Knowledge Graphs**
+- Developed the frontend with **Next.js** and **Node.js**
+
+### Intelligent Fire Safety Digital Twin
+
+**IoT, Azure, and simulation project**
+
+- Designed an intelligent fire alarm solution using **Edge C++** and **Cloud Azure Analytics**
+- Used a digital twin approach to reduce false alarms and improve monitoring
+
+### Collaborative Crowdsourcing Platform
+
+**Django, HTML/CSS, and JavaScript web platform**
+
+- Built a centralized platform for managing and tracking project ideas
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Data & AI
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+### Cloud, DevOps & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure IoT Hub](https://img.shields.io/badge/Azure%20IoT%20Hub-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Stream Analytics](https://img.shields.io/badge/Azure%20Stream%20Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+## Certifications
+
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)** - February 2026
+- **Docker Foundations Professional Certificate** - December 2025
+
+## Languages
+
+- **Arabic:** Native
+- **French:** C1
+- **English:** B2
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/taha-el-afdel](https://www.linkedin.com/in/taha-el-afdel/)
+- Email: [elafdel.taha@gmail.com](mailto:elafdel.taha@gmail.com)
