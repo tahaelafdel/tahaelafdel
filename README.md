@@ -9,7 +9,7 @@ I build data platforms, AI-powered systems, and full-stack products that turn ra
 Currently looking for a **minimum 4.5-month internship starting May 15, 2026**, available across Morocco and internationally.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20EL%20AFDEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-el-afdel/)
-[![Email](https://img.shields.io/badge/Email-elafdel.taha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elafdel.taha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-elafdel.taha1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elafdel.taha1@gmail.com)
 
 ## About Me
 
